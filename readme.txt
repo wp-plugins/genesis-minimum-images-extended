@@ -23,7 +23,7 @@ This is intended for the child theme Minimum 2.0 for the Genesis framework. We p
 == Changelog ==
 
 = 0.1.0 =
-* Inital release.
+* Initial release.
 
 == Upgrade Notice ==
 
