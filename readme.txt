@@ -1,4 +1,4 @@
-=== Genesis Minimum Image Extended ===
+=== Genesis Minimum Images Extended ===
 Contributors: peterdog, fatmedia, Nick_theGeek, kraftbj
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TJUUYJPMN6SGQ
 Tags: genesis, minimum
@@ -35,7 +35,11 @@ Let's say you've made a beautiful "banner" image for a post that measures 1600x2
 
 == Screenshots ==
 
-Coming soon! See [examples](http://www.petersenmediagroup.com/plugins/genesis-minimum-images-extended/ "GMIE Plugin URI") here.
+1. An example homepage with featured images at "banner" aspect ratios are varying and very hard to see.
+2. Pinterest is unable to use any image other than the post's featured image when you use the Pin It button.
+3. Using GMIE to create a new banner image, you can then have a normal aspect ratio image for the featured image, allowing for attractive social sharing.
+
+See more [examples](http://www.petersenmediagroup.com/plugins/genesis-minimum-images-extended/ "GMIE Plugin URI") here.
 
 == Changelog ==
 
