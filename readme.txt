@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: genesis, minimum
 Requires at least: 3.3
 Tested up to: 3.5
-Stable tag: 0.1.2
+Stable tag: 0.1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -43,9 +43,12 @@ See more [examples](http://www.petersenmediagroup.com/plugins/genesis-minimum-im
 
 == Changelog ==
 
+= 0.1.3 =
+* added fallback banner image as the previous featured image until a banner image is added to a post/page, so as to not leave anything bannerless
+
 = 0.1.2 =
 * added FAQ
-* added screenshots section
+* added screenshots
 * added Donate button
 
 = 0.1.1 =
